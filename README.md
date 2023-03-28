@@ -1,4 +1,10 @@
-### Hi there 👋
+# Paul Lessing
+
+Frontend Developer, Full-Stack Developer, Engineering Manager
+
+## About Me
+ * I always finish tasks that I start
+ * TODO write the rest of this list
 
 <!--
 **paullessing/paullessing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
