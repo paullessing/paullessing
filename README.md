@@ -4,7 +4,7 @@ Frontend Developer, Full-Stack Developer, Engineering Manager
 
 ## About Me
  * I always finish tasks that I start
- * TODO write the rest of this list
+ * TODO write the rest of this page
 
 <!--
 **paullessing/paullessing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
