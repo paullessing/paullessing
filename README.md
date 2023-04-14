@@ -6,6 +6,9 @@ Frontend Developer, Full-Stack Developer, Engineering Manager
  * I always finish tasks that I start
  * TODO write the rest of this page
 
+## PR Emojis
+I use emojis in Pull Requests comments. See [my explanation](emoji-pull-requests.md) for a list.
+
 <!--
 **paullessing/paullessing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
