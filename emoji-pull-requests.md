@@ -15,6 +15,7 @@ To work around this, I use emoji as a prefix for PR comments, to indicate how ur
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | ❓     | Request for clarification; this might be an issue, but I'm not sure.<br>Or: I've not understood what this code does, could you explain?    |
 | 💬     | Note. Nothing to change here.                                                                                                              |
+| 💡     | Coding tip!                                                                                                                                |
 | 👏     | Highlighting some great code!                                                                                                              |
 | 🤷🤷‍♂️🤷‍♀️ | Minor issue, or suggestion.<br>Fine to ignore as this is not important.<br>Could be a style comment, a personal preference, or just a pointer. |
 | 🐛     | Bug: This needs to be addressed before the PR is merged.                                                                                   |
